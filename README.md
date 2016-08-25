@@ -1,4 +1,4 @@
-# hamiyoca - Hash me if you can
+# Ehamiyoca - ETHash me if you can
 
 ## Getting Started
 
